@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ListaDoisExercicioTres",
+            "request": "launch",
+            "mainClass": "listadois.ListaDoisExercicioTres"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ListaDoisExercicioDez",
+            "request": "launch",
+            "mainClass": "listadois.ListaDoisExercicioDez"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ListaDoisExercicioNove",
+            "request": "launch",
+            "mainClass": "listadois.ListaDoisExercicioNove"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ListaDoisExercicioOito",
+            "request": "launch",
+            "mainClass": "listadois.ListaDoisExercicioOito"
+        }
+    ]
+}
