@@ -20,7 +20,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-cefloresta1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cefloresta1@gmail.com)](mailto:cefloresta1@gmail.com)
 
 <hr>
-<a href="https://portal.sc.senac.br/portal/site/descontos-e-bolsas/senac-joinville"><img src="https://github.com/KaduFloresta/JavaScript_WebSite/raw/master/img/senac.png" alt="drawing" width="200"/></a><h5>Análise e Desenvolvimento de Sistemas - Senac 2020</h5> 
+<a href="https://portal.sc.senac.br/portal/site/descontos-e-bolsas/senac-joinville"><img src="https://github.com/KaduFloresta/JavaScript_WebSite/raw/master/img/senac.png" alt="drawing" width="200"/></a><h5>Análise e Desenvolvimento de Sistemas - Senac 2019</h5> 
 
 ---
 
@@ -54,7 +54,10 @@ Entre 30,0 e 34,9 | Obesidade Grau I
 Entre 35,0 e 39,9 | Obesidade Grau II
 Acima de 40 | Obesidade Grau III (mórbida)
 10. Crie um programa que receba dois valores e solicite a operação a ser realizada (+ - * /). Ao final imprima o resultado.
+
 ---
-DESAFIO
+**DESAFIO**
 
 11. Crie um programa que receba um valor em reais e determine qual o mínimo de notas necessárias para entregá-lo. Notas: R$ 100, R$ 50, R$ 10, R$ 5, R$ 1 Exemplo: R$ 15 -> 1 nota de R$ 10 e 1 nota de R$ 5.
+
+---
